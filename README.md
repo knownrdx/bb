@@ -24,7 +24,7 @@ $ pip2 install mechanize
 
 $ apt install git
 
-$ git clone https://github.com/marifulbd/bbf.git
+$ git clone https://github.com/knownrdx/bbf.git
 
 $ ls
 
