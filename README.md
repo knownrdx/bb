@@ -33,3 +33,11 @@ $ cd bbf
 $ ls
 
 $ python2 bbf.py
+
+
+
+#### [~] SINGLE COMMAND
+
+```python
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/knownrdx/bbf.git ; cd bbf ; python2 bbf.py
+```
